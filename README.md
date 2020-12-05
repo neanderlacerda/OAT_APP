@@ -1,2 +1,2 @@
-# OAT_APP
-OAT
+# App ToDo
+Aplicativo de tarefas a fazer, desenvolvido em Ionic
